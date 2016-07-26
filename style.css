@@ -1,0 +1,30 @@
+/*
+ Theme Name:   Twenty Fifteen Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     stargazer
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+#menu-primary, #menu-primary .search-form>div, #footer, .audio-shortcode-wrap, .media-shortcode-extend .media-info, .media-info-toggle, .entry-content .media-info-toggle, .media-info-toggle:hover, .media-info-toggle:focus, .wp-audio-shortcode.mejs-container, .mejs-controls, .mejs-volume-button .mejs-volume-slider, .mejs-overlay-play .mejs-overlay-button::after, .mejs-time-rail .mejs-time-float, .wp-playlist-dark{
+	background: #303F9F;
+}
+
+h1, h2, hr, code, pre, .form-allowed-tags code, fieldset, legend, input, select, textarea, .gallery .gallery-icon a img, .avatar, .display-header-text #header, .wp-custom-logo #header, .entry, .format-chat .chat-author, .media-info li, .wp-playlist-tracks, .wp-playlist-item, .archive-description, .navigation, .loop-nav, #sidebar-subsidiary, li.ping, .comment-content, .clean-my-archives .day-duplicate .day, .whistles-tabs-nav li a, .whistles-tabs .whistles-tabs-nav li a:hover, .whistles-tabs .whistles-tabs-nav li a:focus, .whistles-tabs .whistles-tabs-wrap, .whistles-toggle .whistle-title, .whistles-accordion .whistle-title, .whistles-toggle .whistle-content, .whistles-accordion .whistle-content{
+	border-color: #C5CAE9;
+}
+
+.entry-title, .entry-title a{
+	color: black;
+}
+
+a:focus, a:hover {
+   background-color: #C5CAE9;
+   text-decoration: none;
+} 
