@@ -36,10 +36,6 @@ blockquote, blockquote a:hover, blockquote a:focus, .entry-content blockquote a:
 	text-align: center;
 }
 
-body{
-	font-family: 'Exo', sans-serif;
-}
-
 .entry-title, .entry-title a{
 	color: #303F9F;
 	text-decoration: underline;
