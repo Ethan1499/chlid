@@ -43,6 +43,7 @@ blockquote, blockquote a:hover, blockquote a:focus, .entry-content blockquote a:
 
 .custom-background #container>.wrap{
 	border-radius: 5px;
+	zoom: 75%;
 }
 
 img{
