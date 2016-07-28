@@ -41,7 +41,9 @@ blockquote, blockquote a:hover, blockquote a:focus, .entry-content blockquote a:
 	text-decoration: underline;
 }
 
-
+.custom-background #container>.wrap{
+	border-radius: 4px;
+}
 
 
 
