@@ -55,11 +55,13 @@ input[type=number], input[type=date], input[type=datetime], input[type=datetime-
 	border-color: darkblue;
 }
 
+input[type='submit'], input[type='reset'], input[type='button'], button, .page-links a, .comment-reply-link, .comment-reply-login, .wp-calendar td.has-posts a, #menu-sub-terms li a{
+	color: blue;
+}
 
-
-
-
-
+div.wpcf7-validation-errors {
+    border: 5px dotted darkblue;
+}
 
 
 
