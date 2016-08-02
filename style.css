@@ -21,6 +21,7 @@ h1, h2, hr, code, pre, .form-allowed-tags code, fieldset, legend, input, select,
 	border-color: white;
 	text-align: center;
 	color: black;
+	text-decoration: underline;
 	}
 
 .entry-title, .entry-title a{
@@ -37,7 +38,7 @@ blockquote, blockquote a:hover, blockquote a:focus, .entry-content blockquote a:
 }
 
 .entry-title, .entry-title a{
-	color: #303F9F;
+	color: black;
 	text-decoration: underline;
 }
 
@@ -62,6 +63,7 @@ input[type='submit'], input[type='reset'], input[type='button'], button, .page-l
 div.wpcf7-validation-errors {
     border: 5px dotted darkblue;
 }
+
 
 
 
